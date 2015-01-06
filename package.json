@@ -5,5 +5,5 @@
   "description": "cocos2d-x for C++",
   "keywords": "GameEngine",
   "license": "MIT",
-  "install": "python ./setup.py"
+  "install": "python2 ./setup.py"
 }
