@@ -1,0 +1,9 @@
+{
+  "name": "cocos2d-x",
+  "version": "3.3",
+  "repo": "raa0121/cocos2d-x",
+  "description": "cocos2d-x for C++",
+  "keywords": "GameEngine",
+  "license": "MIT",
+  "install": "python ./setup.py"
+}
